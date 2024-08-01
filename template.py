@@ -10,9 +10,9 @@ warnings.filterwarnings("ignore")
 list_of_files = [
     ".github/workflows/.gitkeep",
     # experiments:
-    "experiments/",
+    "experiments/dummy_file.txt",
     # source data:
-    "source_data/",
+    "source_data/dummy_file.txt",
     # src:
     "src/__init__.py",
     # src------>exception.py:
