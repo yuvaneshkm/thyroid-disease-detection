@@ -37,6 +37,7 @@ setup(
     project_urls={
         "Bug Trackers": f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues"
     },
+    package_dir = {"":"src"},
     packages=find_packages(),
     install_requires=get_requirements("requirements_dev.txt"),
 )
