@@ -29,7 +29,7 @@ list_of_files = [
     "src/components/model_evaluation.py",
     # src/pipeline:
     "src/pipeline/__init__.py",
-    "src/pipeline/ETL_pipeline",
+    "src/pipeline/ETL_pipeline.py",
     "src/pipeline/training_pipeline.py",
     "src/pipeline/prediction_pipeline.py",
     # tests:
