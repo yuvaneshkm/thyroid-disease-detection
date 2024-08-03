@@ -23,7 +23,6 @@ class CustomException(Exception):
 
 
 if __name__ == "__main__":
-    
     try:
         9 / 0
     except Exception as ex:
