@@ -18,7 +18,7 @@ list_of_files = [
     # src------>exception.py:
     "src/exception.py",
     # src------>logging.py:
-    "src/logging.py",
+    "src/logger.py",
     # src------>utils.py:
     "src/utils.py",
     # src/components:
